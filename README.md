@@ -2,9 +2,9 @@
 
 > A Vue.js project
 
-##效果图
+## 效果图
 
-![](https://github.com/xingxiaoyiyio/vue2-vux-fitness-project/raw/master/static/3.jpg =300)
+![](https://github.com/xingxiaoyiyio/vue2-vux-fitness-project/raw/master/static/3.jpg)
 
 ## Build Setup
 
