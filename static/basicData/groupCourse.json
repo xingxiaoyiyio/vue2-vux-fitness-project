@@ -1,0 +1,39 @@
+{
+	"isSuccess": true,
+	"errorCode": "",
+	"errorMessage": "",
+	"returnObject":[
+	{
+		"id": 1001,
+		"title": "有氧活动.花婷婷",
+    "startTime": "9:00",
+    "endTime": "10:00",
+		"icon": "",
+		"reservation": 40,
+    "schduleId": 1001,
+    "personMax":100,
+    "comment":""
+	},
+	{
+		"id": 1002,
+		"title": "动感单车.苗翠翠",
+    "startTime": "9:00",
+    "endTime": "10:00",
+		"icon": "",
+		"reservation": 40,
+    "schduleId": 1001,
+    "personMax":40,
+    "comment":""
+	},
+	{
+		"id": 1003,
+		"title": "动感单车.苗翠翠",
+    "startTime": "9:00",
+    "endTime": "10:00",
+		"icon": "",
+		"reservation": 10,
+    "schduleId": 1001,
+    "personMax":40,
+    "comment":""
+	}]
+}

@@ -1,0 +1,34 @@
+{
+	"isSuccess": true,
+	"errorCode": "",
+	"errorMessage": "",
+	"returnObject": [{
+			"id": 1001,
+			"name": "花教练",
+			"icon": "",
+			"description": "减脂塑性, 增肌, 翘臀美腿",
+			"certification": "国家认证",
+			"status":1
+		},
+		{
+			"id": 1002,
+			"name": "朵教练",
+			"icon": "",
+			"description": "减脂塑性, 增肌, 翘臀美腿",
+			"certification": "国家认证",
+			"reserveStartTime": "10:00",
+			"reserveEndTime": "12:00",
+			"status":2
+		},
+		{
+			"id": 1003,
+			"name": "毛教练",
+			"icon": "",
+			"description": "瘦身！瘦身！我要瘦身",
+			"certification": "国家认证",
+			"reserveStartTime": "08:00",
+			"reserveEndTime": "12:00",
+			"status":1
+		}
+	]
+}

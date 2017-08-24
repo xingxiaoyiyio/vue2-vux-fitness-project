@@ -1,0 +1,23 @@
+html,body{
+	width: 100%;
+	height: 100%;
+}
+
+.loading-box .weui-toast{
+    width: 62px;
+    height: 62px;
+    min-height: 62px;
+    top: 50%;
+    left: 50%;
+    margin-left: -31px;
+    margin-top: -40px;
+}
+
+
+.loading-box  .weui-icon_toast.weui-loading{
+   margin-top:12px;
+}
+
+.loading-box  .weui-toast__content{
+	display: none
+}
