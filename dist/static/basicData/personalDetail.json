@@ -1,0 +1,69 @@
+{
+	"isSuccess": true,
+	"errorCode": "",
+	"errorMessage": "",
+	"returnObject": [{
+		"id":1001,
+		"name": "花教练",
+		"icon": "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAchat_redirect",
+		"description": "减脂塑性, 增肌, 翘臀美腿",
+		"certification": "国家认证",
+		"categoryName": "杠铃",
+		"courseId": "1003",
+		"scheduleTime": [{
+				"id": 1001,
+				"type": 1,
+				"time": "08:00",
+				"isEnable": true
+			},
+			{
+				"id": 1002,
+				"type": 1,
+				"time": "08:30",
+				"isEnable": true
+			},
+			{
+				"id": 1003,
+				"type": 1,
+				"time": "09:00",
+				"isEnable": false
+			},
+			{
+				"id": 1012,
+				"type": 2,
+				"time": "13:00",
+				"isEnable": true
+			},
+			{
+				"id": 1013,
+				"type": 2,
+				"time": "13:30",
+				"isEnable": true
+			},
+			{
+				"id": 1014,
+				"type": 2,
+				"time": "14:00",
+				"isEnable": false
+			},
+			{
+				"id": 1015,
+				"type": 3,
+				"time": "17:00",
+				"isEnable": true
+			},
+			{
+				"id": 1016,
+				"type": 3,
+				"time": "17:30",
+				"isEnable": true
+			},
+			{
+				"id": 1017,
+				"type": 3,
+				"time": "18:00",
+				"isEnable": false
+			}
+		]
+	}]
+}

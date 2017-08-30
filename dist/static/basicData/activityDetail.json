@@ -1,0 +1,16 @@
+{
+	"isSuccess": true,
+	"errorCode": "",
+	"errorMessage": "",
+    "returnObject": {
+    "id":1001,
+    "code":"http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_timg.jpg",
+    "icon":"",
+    "title":"我运动,我健康,我快乐-全民瑜伽活动",
+    "startDate":"2017-08-06",
+    "endDate":"2017-08-08",
+    "publishDate":"2017-08-03",
+    "viewer":123,
+    "content":"活动方案指的是为某一次活动所指定的书面计划， 具体行动实施办法细则， 步骤等。 对具体将要进行的活动进行书面的计划， 对每个步骤的详细分析， 研究， 以确定活动的顺利， 圆满进行."
+  }
+}

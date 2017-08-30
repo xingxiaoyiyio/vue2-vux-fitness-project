@@ -1,0 +1,24 @@
+{
+	"isSuccess": true,
+	"errorCode": "",
+	"errorMessage": "",
+	"returnObject": [{
+		"id": 1001,
+		"code": "huodong",
+		"title": "最新活动在这里哈",
+		"startDate": "2017/08/08",
+		"endDate": "2017/08/20",
+		"icon": "http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_timg.jpg",
+		"viewer": 301
+	},
+	{
+		"id": 1002,
+		"code": "huodong",
+		"title": "全民来瑜伽",
+		"startDate": "2017/07/08",
+		"endDate": "2017/07/20",
+		"icon": "http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_timg.jpg",
+		"viewer": 101
+	}
+	]
+}
