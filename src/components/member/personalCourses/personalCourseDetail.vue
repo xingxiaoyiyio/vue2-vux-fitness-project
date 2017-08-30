@@ -4,7 +4,7 @@
 			<flexbox>
                <flexbox-item :span="3">
                		<div class="item-icon">
-               			<x-img default-src="http://m-health-image.oss-cn-shenzhen.aliyuncs.com/knowledge-small-9bb747a1-f744-402d-9016-f0791f60d733" v-bind:src="mainData.icon"></x-img>
+               			<img src="../../../assets/images/timg.png"/>
                		</div>
                </flexbox-item>
                <flexbox-item>

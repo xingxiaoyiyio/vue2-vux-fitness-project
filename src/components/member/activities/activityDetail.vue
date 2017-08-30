@@ -1,7 +1,7 @@
 <template>
 	<div class="activityDetail">
 		<div class="newsImg">
-             <x-img default-src="http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_timg.jpg" v-bind:src="mainData.icon"></x-img>
+             <img src="../../../assets/images/news-img.png"/>
 		</div>
 		<div class="detail-box">
 			<div class="text-top">

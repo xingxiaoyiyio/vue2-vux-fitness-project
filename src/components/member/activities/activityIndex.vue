@@ -3,7 +3,7 @@
     <div class="activeItem" v-for="item in itemList">
       <router-link :to="'/memberHome/activityDetail/'+item.id">
           <div class="newsImg">
-             <x-img default-src="http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_timg.jpg" v-bind:src="item.icon"></x-img>
+             <img src="../../../assets/images/news-img.png"/>
           </div>
           <div class='sbottom'>
             <p class="title">{{item.title}}</p>

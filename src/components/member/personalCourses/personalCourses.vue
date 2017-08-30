@@ -19,7 +19,7 @@
     		 <flexbox>
                    <flexbox-item :span="3">
                    		<div class="item-icon">
-                   			<x-img default-src="http://images.cnblogs.com/cnblogs_com/xingxiangyi/1065437/o_ph.jpg" v-bind:src="item.icon"></x-img>
+                   			<img src="../../../assets/images/timg.png"/>
                    		</div>
                    </flexbox-item>
                    <flexbox-item>
